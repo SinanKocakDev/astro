@@ -9,3 +9,4 @@ content:
       - { name: pubDate, label: pubDate, type: date  }
       - { name: updatedDate, label: updatedDate, type: date  }
       - { name: heroImage, label: heroImage, type: string  }
+      - { name: body, label: Body, type: rich-text  }
